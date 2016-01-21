@@ -3,13 +3,13 @@ layout: default
 title: DH-at-UVa Symposium Planning
 ---
 
-#Date: Wednesday, April 27
+#Date: Wednesday, March 30 or April 27
   * Check to see if conflicts with other DH things
   * April is very full, would late March be better?
 
 ##Format/length
  * 1/2 day
- * mid-project updates 
+ * mid-project updates
  * longer papers/panels (2-3)
 
 ##Budget
